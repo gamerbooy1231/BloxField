@@ -109,5 +109,3 @@ Keybind:Set("RightCtrl") -- Keybind (string)
 local Label = Tab:CreateLabel("Label Example")
 
 local Paragraph = Tab:CreateParagraph({Title = "Paragraph Example", Content = "Paragraph Example"})
-
-```lua
