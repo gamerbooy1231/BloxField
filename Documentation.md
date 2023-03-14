@@ -1,2 +1,3 @@
-This documentation is outdated.
-Forwarding you to: https://rayfield.dev/
+```lua
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+```
